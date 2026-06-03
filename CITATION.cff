@@ -1,10 +1,10 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 type: software
-title: "SIMSVAL and FANS Mar-Apr 2025 — CTD post-processing pipeline for RBR Concerto sensors"
+title: "CTD post-processing pipeline for RBR Concerto sensors — SIMSVAL and FANS Mar-Apr 2025"
 abstract: >
   MATLAB pipeline for post-processing CTD data from RBR Concerto sensors
-  deployed during the ARICE-PONANT 2025 spring campaigns (SIMSVAL and FANS)
+  deployed during the SIMSVAL and FANS 2025 spring campaigns
   aboard R/V Le Commandant Charcot in western Greenland fjords (60.2–69.5°N).
   Produces L0 (raw) and L2 (processed, quality-controlled) NetCDF-4 files
   following CF-1.8 / ACDD-1.3 conventions.

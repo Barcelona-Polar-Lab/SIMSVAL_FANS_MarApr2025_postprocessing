@@ -224,13 +224,13 @@ MIT — see [LICENSE](LICENSE)
 If you use this code, please cite:
 
 ```bibtex
-@software{hoareau2025_ctd_pipeline,
+@software{umbert2026_ctd_pipeline,
   author    = {Hoareau, Nina and Umbert, Marta and Crespin, Júlia and
                Sánchez Urrea, María and Hernández-Macià, Ferran and
                Gabarró, Carolina and De Andrés, Eva},
-  title     = {SIMSVAL and FANS Mar-Apr 2025 — CTD post-processing pipeline
-               for RBR Concerto sensors},
-  year      = {2025},
+  title     = {CTD post-processing pipeline for RBR Concerto sensors —
+               SIMSVAL and FANS Mar-Apr 2025},
+  year      = {2026},
   version   = {1.0.0},
   publisher = {Zenodo},
   doi       = {10.5281/zenodo.20527364}
