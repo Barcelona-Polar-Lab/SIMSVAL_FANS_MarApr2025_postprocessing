@@ -1,0 +1,20 @@
+# MATLAB
+*.asv
+*.m~
+*.mex*
+
+# Raw data (too large for git)
+*.rsk
+RAW/
+
+# Output files (large — not tracked)
+outputs/
+*.nc
+
+# Large .mat output files (but NOT ancillary_data/*.mat)
+/scripts/*.mat
+RAW_CTD_*.mat
+PROC_CTD_*.mat
+
+# macOS
+.DS_Store

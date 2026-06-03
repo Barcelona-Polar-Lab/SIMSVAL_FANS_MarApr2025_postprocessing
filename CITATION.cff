@@ -1,0 +1,51 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "ARICE 2025 CTD post-processing pipeline for RBR Concerto sensors"
+abstract: >
+  MATLAB pipeline for post-processing CTD data from RBR Concerto sensors
+  deployed during the ARICE-PONANT 2025 spring campaigns (SIMSVAL and FANS)
+  aboard R/V Le Commandant Charcot in western Greenland fjords (60.2–69.5°N).
+  Produces L0 (raw) and L2 (processed, quality-controlled) NetCDF-4 files
+  following CF-1.8 / ACDD-1.3 conventions.
+authors:
+  - family-names: Hoareau
+    given-names: Nina
+    orcid: "https://orcid.org/0000-0002-5512-5740"
+    affiliation: "Institut de Ciències del Mar (ICM-CSIC), Barcelona, Spain"
+    email: nhoareau@icm.csic.es
+  - family-names: Sánchez
+    given-names: Maria
+    affiliation: "Institut de Ciències del Mar (ICM-CSIC), Barcelona, Spain"
+  - family-names: Crespin
+    given-names: Júlia
+    affiliation: "Institut de Ciències del Mar (ICM-CSIC), Barcelona, Spain"
+  - family-names: De-Andrés
+    given-names: Eva
+    affiliation: "Institut de Ciències del Mar (ICM-CSIC), Barcelona, Spain"
+  - family-names: Hernández-Macià
+    given-names: Ferran
+    affiliation: "Institut de Ciències del Mar (ICM-CSIC), Barcelona, Spain"
+  - family-names: Gabarró
+    given-names: Carolina
+    affiliation: "Institut de Ciències del Mar (ICM-CSIC), Barcelona, Spain"
+  - family-names: Umbert
+    given-names: Marta
+    affiliation: "Institut de Ciències del Mar (ICM-CSIC), Barcelona, Spain"
+version: "1.0.0"
+date-released: "2025-06-01"
+license: MIT
+repository-code: "https://github.com/ninahoareau13/ARICE2025-CTD-postprocessing"
+keywords:
+  - CTD
+  - oceanography
+  - Arctic
+  - Greenland fjords
+  - RBR Concerto
+  - MATLAB
+  - post-processing
+  - quality control
+  - NetCDF
+  - TEOS-10
+  - ARICE
+  - PONANT
